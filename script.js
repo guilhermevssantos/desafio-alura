@@ -26,7 +26,7 @@ const reset = () => {
 	rigth.classList.remove("ajuste")
 	textFinal.classList.remove("ajustar");
 	boneca.classList.remove("ocultar");
-	textFinal.placeholder = "Ningún mensaje fue encontrado";
+	textFinal.placeholder = "Nenhuma mensagem encontrada";
 	textInfo.classList.remove("ocultar")
 	copy.classList.add("bn_ocultar");
 	textoInicial.focus();
