@@ -3,7 +3,7 @@ const descriptografar = document.getElementById("button__descriptografar");
 const copy = document.getElementById("button__copiar");
 const textoInicial = document.getElementById("textoInput");
 const textFinal = document.getElementById("textoFinal");
-const munheco = document.getElementById("boneca");
+const boneca = document.getElementById("boneca");
 const textInfo = document.getElementById("textoInfo");
 const rigth = document.getElementById("rigth")
 	
